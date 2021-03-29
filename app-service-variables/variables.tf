@@ -4,7 +4,7 @@ variable "resource-group-name" {
 }
 
 variable "location" {
-  default     = "West Europe"
+  default     = "southeastasia"
   description = "The Azure location where all resources in this example should be created"
 }
 
